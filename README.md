@@ -2,6 +2,8 @@
 
 Easily make your own email signature. Simply edit the "index.html" file and make your own signature. :)
 
+![alt demo](https://trello-attachments.s3.amazonaws.com/5b7e927235f108090e6f2d4a/5b83c2fe9547fc4b3993b15f/29a9360f853bab7b87ce4b35f0a65591/image.png)
+
 ## Setup
 
 - Fork this repo and clone to your local pc.
